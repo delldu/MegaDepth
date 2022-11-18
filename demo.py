@@ -8,7 +8,7 @@ from data.data_loader import CreateDataLoader
 from models.models import create_model
 from skimage import io
 from skimage.transform import resize
-
+import pdb
 
 img_path = 'demo.jpg'
 
